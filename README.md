@@ -14,9 +14,9 @@
 
 - 📫 Podes comunicarte conmigo a mi mail **valerio_andrades@hotmail.com**
 
-### Continuan las publicaciones!! En este repositorio realizo una APP en MERN utilizando REACT.
+### Continuan las publicaciones!! En este repositorio realizo una APP utilizando nodeJS.
 
-- 👨‍💻 proyecto 7: Proyecto en REACT.
+- 👨‍💻 proyecto 7: Proyecto con nodeJS: Calculadora de propinas.
 
 
 
