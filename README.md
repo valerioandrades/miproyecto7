@@ -16,7 +16,7 @@
 
 ### Continuan las publicaciones!! En este repositorio realizo una APP utilizando nodeJS.
 
-- 👨‍💻 proyecto 7: Proyecto con nodeJS: Calculadora de propinas.
+- 👨‍💻 proyecto 7: Proyecto con nodeJS.
 
 
 
